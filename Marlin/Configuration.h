@@ -96,7 +96,7 @@
  * Marlin allows you to add a custom boot image for Graphical LCDs.
  * With this option Marlin will first show your custom screen followed
  * by the standard Marlin logo with version number and web URL.
- *me
+ *
  * We encourage you to take advantage of this new feature and we also
  * respectfully request that you retain the unmodified Marlin boot screen.
  */
