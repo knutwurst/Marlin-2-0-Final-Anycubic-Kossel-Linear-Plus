@@ -1,3 +1,5 @@
+# WARNING! This Version is depricated! Please use the new 2.0.x instead -> https://github.com/knutwurst/Marlin-2-0-x-Anycubic-Kossel-Linear-Plus
+
 # Readme
 
 These configurations activate many of the new advanced features of the Marlin firmware:
